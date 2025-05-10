@@ -79,7 +79,7 @@ export const projects = [
         "Stripe",
         "MongoDB"
       ],
-      image: "/img-3.jpg",
+      image: "/img-3.JPG",
       demoUrl: "https://hot-onion-restaurant-a3465.web.app",
       githubUrl: "https://github.com/Saiful-Islam45/hot-onion-restaurant"
     },
@@ -95,7 +95,7 @@ export const projects = [
         "MongoDB",
         "etc."
       ],
-      image: "/img-1.jpg",
+      image: "/img-1.JPG",
       demoUrl: "https://doctors-portal-live.netlify.app/",
       githubUrl: "https://github.com/Saiful-Islam45/doctors-portal"
     }
