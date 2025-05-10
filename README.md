@@ -38,7 +38,7 @@ The portfolio includes the following sections, reflecting the main components of
 *   **Projects**: A collection of my notable works with descriptions and links.
 *   **Experience**: My professional work history.
 *   **Education**: My academic qualifications.
-*   **Blog**: (If applicable) My thoughts and articles.
+*   **Blog**: My thoughts and articles.
 *   **Contact**: A way to get in touch.
 *   **Footer**: Consistent navigation and copyright information.
 
